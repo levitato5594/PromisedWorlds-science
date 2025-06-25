@@ -10,7 +10,7 @@ Currently, the pack is in early access. Planets will be added one-by-one in upda
 If you want to keep up to date with progress, join the discord server. I try post things as often as possible. https://discord.gg/cuY2Hx2emM
 
 # Installation
-- Download the latest version from github
+- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
 - Extract the zip file and put all folders in GameData
 - Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/)
 - Extract these zip files and put all folders in GameData
