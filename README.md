@@ -18,8 +18,10 @@ If you want to keep up to date with progress, join the discord server. I try pos
 # Current System
 The bodies present currently are:
 - Debdeb - A young G-type main sequence star.
+- Charr - A heat-blasted world of metallic iron. The first planet from Debdeb.
 - Ovin - A chthonian super-Kerbin with 4 times Kerbin's gravity, a striking ring and a thin atmosphere.
 - Gurdamma - A young Kerbin-like planet. It's surface is heavily cratered and geologically active with many volcanoes.
   - Donk - A large moon that orbits between Gurdamma's two rings. It has formed recently from a collision between Gurdamma and another body.
   - Kevba's Anomaly - A wormhole that connects the Kerbolar system with the Debdeb system. It's other side is located in Eeloo orbit (or Plock orbit with OPM installed).
   - Gup - A tiny chunk of rock in a highly-eccentric orbit. It spins rapidly which has flattened it into a disk shape.
+- Lapat - A cold rusty planet. It has an oxygenated atmosphere and water oceans, making it suitable for life.
