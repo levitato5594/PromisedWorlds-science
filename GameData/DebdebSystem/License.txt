@@ -1,0 +1,34 @@
+Unless stated otherwise, all content of [Debdeb System Planet Pack](discord.gg/cuY2Hx2emM), including but not limited to textures, configs, etc., is created by KSP forum user [Constructalor](https://forum.kerbalspaceprogram.com/profile/175439-constructalor/) and follows the MIT License.
+
+EXCEPTIONS:
+1. The sunflare textures are made based on textures of [Kabrams Sun Flare's Pack](https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare%27s%20Pack%20for%20Scatterer.) and redistributed under its own license:
+    > GameData/DebdebSystem/Scatterer/Sunflares/
+2. The mod [Kopernicus Expansion Continued-er](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/) in the following folder is redistributed under the GNU General Public License:
+    > GameData/KopernicusExpansion
+3. The plugin [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/) in the following path is redistributed under the MIT license:
+    > GameData/000_NiakoUtils
+4. The plugin [VertexColorMapEmissive](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-110-easy-emissives/) in the following path is redistributed under the MIT license:
+    > GameData/000_DuckweedUtils
+// If I've left something out here, please let me know <3
+
+MIT License
+
+Copyright (c) 2025 Constructalor
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
