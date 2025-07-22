@@ -25,7 +25,7 @@ The bodies present currently are:
   - Kevba's Anomaly - A wormhole that connects the Kerbolar system with the Debdeb system. It's other side is located in Eeloo orbit (or Plock orbit with OPM installed).
   - Gup - A tiny chunk of rock in a highly-eccentric orbit. It spins rapidly which has flattened it into a disk shape.
 - Lapat - A cold rusty planet. It has an oxygenated atmosphere and water oceans, making it suitable for life.
--  Axod - A vibrant blue gas giant with a thin ring.
+- Axod - A vibrant blue gas giant with a thin ring.
   - Umod - A young icy moon that was re-formed after a collision with another object.
   - Mesma - A large icy moon. Half ice and half rock. Its surface is covered in deep cracks.
   - Omasa - A red rocky moon. It shares an orbit with Mesma.
