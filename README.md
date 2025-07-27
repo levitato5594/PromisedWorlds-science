@@ -1,5 +1,5 @@
 # Debdeb System
-Debdeb System is a KSP 1 planet pack that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 6 brand new planets with many unique challenges and features.
+Debdeb System is a KSP 1 planet pack that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 7 brand new planets with many unique challenges and features.
 
 The Debdeb system is a young star system and is the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to be as accurate as possible to what we know about these worlds, as well as breathing new life into them where possible. Each planet is unique in it's own way, such as a super-Kerbin with 4 times Kerbin's gravity, a cold planet with nitrogen seas and a scorched world of red-hot iron.
 
