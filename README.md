@@ -30,3 +30,5 @@ The bodies present currently are:
   - Mesma - A large icy moon. Half ice and half rock. Its surface is covered in deep cracks.
   - Omasa - A red rocky moon. It shares an orbit with Mesma.
   - Rosh - The largest of Axod's moons, with a thin atmosphere and many striking planitiae.
+- Dorau - A cold snowy planet with nitrogen seas and a puffy atmosphere.
+  - Bis - A minor moon of Dorau. Its surface is dark with tholins.
