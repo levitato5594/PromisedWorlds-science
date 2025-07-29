@@ -1,13 +1,13 @@
 # Debdeb System
-Debdeb System is a KSP 1 planet pack that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 7 brand new planets with many unique challenges and features.
+Debdeb System is a KSP 1 planet pack made by me and other planet modders that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 7 brand new planets with many unique challenges and features.
 
 The Debdeb system is a young star system and is the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to be as accurate as possible to what we know about these worlds, as well as breathing new life into them where possible. Each planet is unique in it's own way, such as a super-Kerbin with 4 times Kerbin's gravity, a cold planet with nitrogen seas and a scorched world of red-hot iron.
 
 We're all bummed about what happened with KSP 2. It was such a loss for the community and was undoubtedly a disappointing time for all KSP fans. If you're annoyed about missing out on all of the new interstellar destinations that never came to be, then this mod is definitely for you.
 
-Currently, the pack is in early access. Planets will be added one-by-one in updates. I can't give a release timeline, but I can say that development is coming along well. You won't be bored to death waiting months for updates. And, unlike KSP 2, I can promise you that this mod will be finished.
+Currently, the pack is in early access. Planets, moons and features are being added one-by-one in updates. We're nearing a full release now with only a handful of features left to add.
 
-If you want to keep up to date with progress, join the discord server. I try post things as often as possible. https://discord.gg/cuY2Hx2emM
+If you want to keep up to date with progress or contribute, join the discord server. https://discord.gg/cuY2Hx2emM
 
 # Installation
 - Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
