@@ -1,0 +1,3 @@
+!! Do not copy these files into GameData !!
+
+These are asset files for the protoplanetary disk in case anybody wants to modify it for whatever reason
