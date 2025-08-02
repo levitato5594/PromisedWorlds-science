@@ -1,5 +1,5 @@
 # Debdeb System
-Debdeb System is a KSP 1 planet pack made by me and other planet modders that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 7 brand new planets with many unique challenges and features.
+Debdeb System is a KSP 1 planet pack made by me and a group of other planet modders that aims to revive the unimplemented Debdeb system from KSP 2. On completion, it will feature 7 brand new planets with many unique challenges and features.
 
 The Debdeb system is a young star system and is the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to be as accurate as possible to what we know about these worlds, as well as breathing new life into them where possible. Each planet is unique in it's own way, such as a super-Kerbin with 4 times Kerbin's gravity, a cold planet with nitrogen seas and a scorched world of red-hot iron.
 
@@ -12,7 +12,7 @@ If you want to keep up to date with progress or contribute, join the discord ser
 # Installation
 - Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
 - Extract the zip file and put all folders in GameData
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/)
+- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
 - Extract these zip files and put all folders in GameData
 
 # Current System
