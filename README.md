@@ -1,12 +1,19 @@
 ![](https://i.imgur.com/pngo3JN.png)
-# The Debdeb System
-The Debdeb System is a KSP 1 planet pack made by me and a group of other planet modders that aims to revive the unimplemented Debdeb system from KSP 2. Upon completion, it will feature seven brand-new planets with numerous unique challenges and features.
+# Promised Worlds
+Promised Worlds is a faithful implementation of the solar systems Intercept Games planned to add to KSP 2. Want to sail the crater lakes of Gurdamma? Dance between the molten oceans of Rask and Rusk? Our team of veteran KSP 1 modders is working to bring you those experiences!
 
-The Debdeb System is a young star system and the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to revive the lost planets of the KSP 2 interstellar update and breathe new life into them. Each planet is unique: prepare to journey to a super-Kerbin with 4 times Kerbin's gravity, a cold planet with nitrogen seas, a scorched world of red-hot iron, and dozens more promised worlds.
+So far, we have implemented the Debdeb System. The Tuun System is in the early stages of in-game development, and the Qeg System is being conceptualized.
+
+All content for Promised Worlds is being designed in-house (that means you can play this mod without us getting sued into oblivion!). Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Dorau), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
+
+The Debdeb System is a young star system and the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to revive the lost planets of the KSP 2 interstellar update and breathe new life into them. Each planet is unique: prepare to journey to a super-Kerbin with four times Kerbin's gravity, a cold planet with nitrogen seas, a scorched world of red-hot iron, and dozens more promised worlds.
 
 We're all bummed about what happened with KSP 2. It was such a loss for the community and undoubtedly a disappointment for all KSP fans. If you're annoyed about missing out on all of the new interstellar destinations that never came to be, then this mod is definitely for you.
 
 Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add.
+
+# The Debdeb System
+The Debdeb System
 
 Want to stay up to date with progress or contribute? Join our Discord server! https://discord.gg/cuY2Hx2emM
 
