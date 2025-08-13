@@ -1,19 +1,20 @@
 ![](https://i.imgur.com/pngo3JN.png)
 # Promised Worlds
-Promised Worlds is a faithful revival of the solar systems Intercept Games planned to add to KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the clock to bring you those experiences—and more!
+Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!
 
-So far, we have implemented the Debdeb System (a guaranteed feature). The Tuun System is in the early stages of development (a hopeful feature), and the Qeg System is being conceptualized (an uncertain feature).
+So far, we have implemented the Debdeb System (a guaranteed feature). The Tuun System is in the early stages of development (a hopeful feature). The Qeg System is being conceptualized (an uncertain feature).
 
-All content for Promised Worlds is being designed in-house. According to a KSP 2 developer we emailed, we are only permitted to borrow KSP 2 assets if they are not "player-facing." We have yet to borrow any assets. 
+All content for Promised Worlds is being designed in-house. According to the KSP 2 developer we emailed, we are only permitted to borrow KSP 2 assets if they are not "player-facing." We have yet to borrow any assets. 
 
 Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Dorau), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
 Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add. 
 
-Want to stay up to date with progress or contribute? Join our Discord server! https://discord.gg/cuY2Hx2emM
+If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
 # The Debdeb System
-The Debdeb System is a young star system and the closest star to Kerbol. Its planets are unlike anything seen in the Kerbolar system. This mod aims to revive the lost planets of the KSP 2 interstellar update and breathe new life into them. Each planet is unique: prepare to journey to a super-Kerbin with four times Kerbin's gravity, a cold planet with nitrogen seas, a scorched world of red-hot iron, and dozens more promised worlds.
+![](https://i.imgur.com/aCDOT5f.png)
+Wrapped in a vast protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse back in time: there's Charr, a scalding ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland fractured under compressed air; and much, much more. 
 
 # Installation
 - Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
