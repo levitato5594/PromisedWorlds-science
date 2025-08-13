@@ -18,7 +18,7 @@ If you want to stay up to date with progress or contribute, join our Discord ser
 
 **DESCRIPTION**
 
-Wrapped by a vast, protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse back in time: there's Charr, a fiery, iron-bound ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland with gorgeous rings; and much, much more. 
+Centered within a vast protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse back in time: there's Charr, a fiery, iron-bound ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland with gorgeous rings; and much, much more. 
 
 **SYSTEM LAYOUT**
 
