@@ -12,19 +12,17 @@ Promised Worlds is currently in early access. Planets, moons, and other features
 
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
-# The Debdeb System
+# The Debdeb System \[INDEV]
+
 ![](https://i.imgur.com/aCDOT5f.png)
-Wrapped in a vast protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse back in time: there's Charr, a scalding ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland fractured under compressed air; and much, much more. 
 
-# Installation
-- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
-- Extract the zip file and put all folders in GameData
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
-- Extract these zip files and put all folders in GameData
+**DESCRIPTION**
 
-# Current System
-The bodies present currently are:
-- Debdeb - A young G-type main-sequence star.
+Wrapped by a vast, protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse back in time: there's Charr, a fiery, iron-bound ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland with gorgeous rings; and much, much more. 
+
+**SYSTEM LAYOUT**
+
+Debdeb - A young G-type main-sequence star.
 - Charr - A heat-blasted world of metallic iron. The first planet from Debdeb.
 - Ovin - A chthonian super-Kerbin with 4 times Kerbin's gravity, a striking ring, and a thin atmosphere.
 - Gurdamma - A young Kerbin-like planet. Its surface is heavily cratered and geologically active with many volcanoes.
@@ -44,3 +42,16 @@ The bodies present currently are:
   - Rosh - The largest of Axod's moons, with a thin atmosphere and many striking planitiae.
 - Dorau - A cold, snowy planet with nitrogen seas and a puffy atmosphere.
   - Bis - A minor moon of Dorau. Its surface is dark with tholins.
+
+
+# The Tuun System
+INDEV. More information coming soon!
+
+# The Qeg System
+TBD. Not a promise.
+
+# Installation
+- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
+- Extract the zip file and put all folders in GameData
+- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
+- Extract these zip files and put all folders in GameData
