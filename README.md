@@ -12,7 +12,7 @@ Promised Worlds is currently in early access. Planets, moons, and other features
 
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
-# The Debdeb System \[INDEV]
+# The Debdeb System
 
 ![](https://i.imgur.com/aCDOT5f.png)
 
