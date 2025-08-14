@@ -45,7 +45,33 @@ Debdeb - A young G-type main-sequence star.
 
 
 # The Tuun System
-INDEV. More information coming soon!
+![](https://i.imgur.com/jXUXdHT.png)
+
+**DESCRIPTION**
+
+Dense and alien, the Tuun System is a prime destination for daring explorers. Nine exotic worlds are anchored around a massive, F-Class star. Brave the barycenter of Rask and Rusk, navigate the depths of Puf's superocean, and dive into Hurr's cloud deck in this ultimate interstellar adventure.
+
+**SYSTEM LAYOUT**
+
+Tuun - An F3V main-sequence star. Approximately 1.5 billion years old.
+- Hurr - A heat-blasted venusian super-Kerbin. 40 bar at sea level.
+- Rask & Rusk - A close-binary pair of super-Kerbin planets. Tidal forces are ripping them apart.
+- Rem - A super-puff planet with deep clouds containing many warm colors.
+  - Flot - A volcanic moon. May erupt spontaneously.
+  - Aven - A tiny habitable moon. Harbors unusual lifeforms.
+- Verda - A tidally-locked, ferrous world. Habitable with thick forest coverage around its terminator.
+- Puf - A cold tundra world with a pupil-like superocean home to treacherous depths.
+  - Bub - An icy minor moon.
+- Tavool - A large, purple gas giant with a young ring system.
+  - Tom - A core of a once-major moon that was torn up to form Tavool's rings. Metal-rich.
+  - Raga - A red desert moon with large, thick ice caps.
+  - Lukas - A large moon with a thick pink atmosphere colored by dust. Has oceans teeming with strange lifeforms.
+  - Dot - A rocky minor moon.
+  - Vez - A small, ringed moon. Orbit is inclined and distant.
+- Arktane - A small, cyan ice giant. Has the strongest winds in the Tuun System.
+  - Skab - A large, cryovolcanic moon. Has many unique terrain types.
+  - Kol - A deep red, tholin-covered minor moon.
+- Ixia - An icy super-Kerbin. Over twice the size of Kerbin but with only 2.5 times the gravity.
 
 # The Qeg System
 TBD. Not a promise.
@@ -53,5 +79,5 @@ TBD. Not a promise.
 # Installation
 - Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
 - Extract the zip file and put all folders in GameData
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
+- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
 - Extract these zip files and put all folders in GameData
