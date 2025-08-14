@@ -83,6 +83,8 @@ Debdeb - A young G-type main-sequence star.
 ![](https://i.imgur.com/sheAWFx.png)
   - Bis - A minor moon of Dorau. Its surface is dark with tholins.
 
+![](https://i.imgur.com/8O3wS66.png)
+
 
 # The Tuun System
 ![](https://i.imgur.com/jXUXdHT.png)
