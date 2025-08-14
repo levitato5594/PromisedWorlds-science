@@ -24,23 +24,63 @@ Centered within a vast protoplanetary disk, the Debdeb System is a young star sy
 
 Debdeb - A young G-type main-sequence star.
 - Charr - A heat-blasted world of metallic iron. The first planet from Debdeb.
+  
+![](https://i.imgur.com/YhJCSDO.png)
 - Ovin - A chthonian super-Kerbin with 4 times Kerbin's gravity, a striking ring, and a thin atmosphere.
+  
+![](https://i.imgur.com/u0qI2WM.png)
 - Gurdamma - A young Kerbin-like planet. Its surface is heavily cratered and geologically active with many volcanoes.
+  
+![](https://i.imgur.com/1cp87HO.png)
   - Donk - A large moon that orbits between Gurdamma's two rings. It has formed recently from a collision between Gurdamma and another body.
+    
+![](https://i.imgur.com/M0srg7s.png)
   - Kevba's Anomaly - A wormhole that connects the Kerbolar system with the Debdeb system. Its other side is located in Eeloo orbit (or Plock orbit with OPM installed).
   - Gup - A tiny chunk of rock in a highly eccentric orbit. It spins rapidly, which has flattened it into a disk shape.
+    
+![](https://i.imgur.com/vZd1HHB.png)
 - Lapat - A cold, rusty planet. It has an oxygenated atmosphere and water oceans, making it suitable for life.
+  
+![](https://i.imgur.com/okL3KUt.png)
 - Glumo - A bold gas giant reminiscent of a sunset.
+  
+![](https://i.imgur.com/UIpzHgb.png)
   - Noj - A little ring shephard
+ 
+![](https://i.imgur.com/OtR4AyO.png)
   - Shana - A moon with an equatorial ridge of accreted ring dust
+
+![](https://i.imgur.com/vHeZBs1.png)
   - Kleid - A moon of deep canyons and winding trenches
+
+![](https://i.imgur.com/i12vCVm.png)
   - Merbel - A vibrant oceanic moon teeming with glacial mystery
+
+ ![](https://i.imgur.com/hLmNPVb.png)
+  - Diros
+    
+![](https://i.imgur.com/ld30ALy.png)
+  - Jut
+  
+![](https://i.imgur.com/caTGcN0.png)
 - Axod - A vibrant blue gas giant with a thin ring.
+  
+![](https://i.imgur.com/aYeVpBI.png)
   - Umod - A young icy moon that was re-formed after a collision with another object.
+    
+![](https://i.imgur.com/7fKq5zJ.png)
   - Mesma - A large icy moon. Half ice and half rock. Its surface is covered in deep cracks.
+    
+![](https://i.imgur.com/CYE0TTJ.png)
   - Omasa - A red rocky moon. It shares an orbit with Mesma.
+    
+![](https://i.imgur.com/8FS9RdT.png)
   - Rosh - The largest of Axod's moons, with a thin atmosphere and many striking planitiae.
+    
+![](https://i.imgur.com/6Q5e2Oa.png)
 - Dorau - A cold, snowy planet with nitrogen seas and a puffy atmosphere.
+  
+![](https://i.imgur.com/sheAWFx.png)
   - Bis - A minor moon of Dorau. Its surface is dark with tholins.
 
 
