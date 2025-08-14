@@ -47,10 +47,10 @@ Debdeb - A young G-type main-sequence star.
 ![](https://i.imgur.com/UIpzHgb.png)
   - Noj - A little ring shephard
  
-![](https://i.imgur.com/7fKq5zJ.png)
+![](https://i.imgur.com/OtR4AyO.png)
   - Shana - A moon with an equatorial ridge of accreted ring dust
 
-![](https://i.imgur.com/vHeZBs1.png)
+![](https://i.imgur.com/CYE0TTJ.png)
   - Kleid - A moon of deep canyons and winding trenches
 
 ![](https://i.imgur.com/i12vCVm.png)
@@ -68,10 +68,10 @@ Debdeb - A young G-type main-sequence star.
 ![](https://i.imgur.com/aYeVpBI.png)
   - Umod - A young icy moon that was re-formed after a collision with another object.
     
-![](https://i.imgur.com/OtR4AyO.png)
+![](https://i.imgur.com/7fKq5zJ.png)
   - Mesma - A large icy moon. Half ice and half rock. Its surface is covered in deep cracks.
     
-![](https://i.imgur.com/CYE0TTJ.png)
+![](https://i.imgur.com/vHeZBs1.png)
   - Omasa - A red rocky moon. It shares an orbit with Mesma.
     
 ![](https://i.imgur.com/8FS9RdT.png)
