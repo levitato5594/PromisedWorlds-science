@@ -12,6 +12,12 @@ Promised Worlds is currently in early access. Planets, moons, and other features
 
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
+# Installation
+- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
+- Extract the zip file and put all folders in GameData
+- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
+- Extract these zip files and put all folders in GameData
+
 # The Debdeb System
 
 ![](https://i.imgur.com/aCDOT5f.png)
@@ -117,9 +123,3 @@ Tuun - An F3V main-sequence star. Approximately 1.5 billion years old.
 
 # The Qeg System
 TBD. Not a promise.
-
-# Installation
-- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
-- Extract the zip file and put all folders in GameData
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
-- Extract these zip files and put all folders in GameData
