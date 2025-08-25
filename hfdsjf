@@ -1,0 +1,678 @@
+[33mcommit 61de925a7bb0a7c7d8cf8714a1d59b6a6b70967e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 17:52:43 2025 -0400
+
+    Spelling edit in Ovin config
+
+[33mcommit bdc57148357732469246ee1e4cf2531517b09da6[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 17:50:57 2025 -0400
+
+    Finish up Glumo science defs
+
+[33mcommit eb35b0c03208d270dee52433e0082d273863b1ce[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 17:36:40 2025 -0400
+
+    Finish out Charr science configs
+
+[33mcommit 92db9345c3bf345633513589fa83cab0a69c091f[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 16:47:19 2025 -0400
+
+    Add Dysnomia's Rosh defs so far
+
+[33mcommit e0e6d41df67012442824bad3c61a53f61c17c681[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 16:08:00 2025 -0400
+
+    Add Debdeb science configs
+
+[33mcommit 84adbf6a7c423d067b5c29d5c6de1384892734be[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 12:38:22 2025 -0400
+
+    Use international spellings for consistency with other writing
+
+[33mcommit ce42c3709257d14c58d7fb983b8f7e6d7c7d2924[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sun Aug 24 12:36:49 2025 -0400
+
+    Add science defs for Mesma
+
+[33mcommit 16ad8fa5ddce58419a101d1e6fc8b8d681d607dc[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 23:06:09 2025 -0400
+
+    Grammar and spelling edits for Kleid science config
+
+[33mcommit 6219d5dc623f33465fce3a2f82ab1d2a8f1d835d[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 23:02:27 2025 -0400
+
+    Grammar and spelling edits for Donk science defs
+
+[33mcommit 0cbf72a450733d529a8dd15d82eac82b7734718d[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 22:48:59 2025 -0400
+
+    Move all science defs to individual files following a template.
+
+[33mcommit 7632eded329f13d4b1dfe52dd3fd27d36ae3cb5b[m
+Merge: c9badab 600bbf6
+Author: levitato5594 <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 19:50:44 2025 -0400
+
+    Merge branch 'Constructalor:main' into main
+
+[33mcommit 600bbf6523aac0d28e246d129c0775a4dc94e9e4[m
+Merge: 7140038 472944a
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sun Aug 24 00:25:07 2025 +0100
+
+    Merge pull request #8 from levitato5594/Firefly-Fix
+    
+    Add custom Firefly configs for all Debdeb system bodies with atmosphere
+
+[33mcommit c9badab953a0f52d56f3fd12b7616e2588cdd22b[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 17:37:59 2025 -0400
+
+    Add Debdeb science configs and add Glumo magnetometer
+
+[33mcommit 71400380095ee983faedd3d8f1fd588b91bcbf2e[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sat Aug 23 20:17:53 2025 +0100
+
+    Update README.md
+    
+    Move installation instructions higher up
+
+[33mcommit f5764756cb36925d964cdc0b7adf87cf0ddaaf3d[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 14:50:54 2025 -0400
+
+    Move science configs for new file structure
+
+[33mcommit f8cb7355f442de5d8c7edfc7e1367c20bd726e93[m
+Merge: ce94e8f e6bb5b8
+Author: levitato5594 <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 14:43:31 2025 -0400
+
+    Merge branch 'Constructalor:main' into main
+
+[33mcommit 472944aa2d6252e53f0b63b521cc9ef67806d8bb[m[33m ([m[1;31morigin/Firefly-Fix[m[33m, [m[1;32mFirefly-Fix[m[33m)[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 13:41:45 2025 -0400
+
+    Add first-pass Firefly configs for the rest of the Debdeb system bodies with atmosphere.
+
+[33mcommit a9188851d44d00b56d1ade67ca161af4986456ac[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 13:13:08 2025 -0400
+
+    Add first-pass custom Firefly configs for Axod, Donk, and Dorau
+
+[33mcommit 458c76ded8b70cfd096fe4ff97b85f7e02efad23[m
+Author: Ranga <228120760+levitato5594@users.noreply.github.com>
+Date:   Sat Aug 23 10:52:04 2025 -0400
+
+    Add placeholder Firefly configs for all Debdeb bodies and current Tuun bodies
+
+[33mcommit e6bb5b88be552518ecac4127acc26a112ee5fe96[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Sat Aug 23 13:59:04 2025 +0100
+
+    Complete restructure + Tuun system
+    
+    MAKE A BACKUP BEFORE YOU PULL THIS
+    
+    To allow for modular installation, the mod has been completely restructured. Also added the basic layout for the Tuun system.
+
+[33mcommit 50a6202b05ef76dd76b4e2814d5c74d9c37e75f2[m
+Merge: 872441e 0f1cca8
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sat Aug 23 13:50:05 2025 +0100
+
+    Merge pull request #4 from Constructalor/Sushutt-patch-1
+    
+    Delete ScaledDecoratorProjectFiles/Assets/Editor directory
+
+[33mcommit 872441ee37b0df562c0a4bb32cc5dc38c526051f[m
+Merge: 60b5a70 df0569f
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sat Aug 23 13:49:53 2025 +0100
+
+    Merge pull request #7 from levitato5594/Firefly-Fix
+    
+    Fix Firefly configs
+
+[33mcommit ce94e8f222d7d295fc3963fe44252c8874809924[m[33m ([m[1;32mlist[m[33m)[m
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 21:01:59 2025 -0400
+
+    Delete KAA science defs
+    
+    It doesn't work correctly
+
+[33mcommit fdcf7af83ac7c84a3067c51492b3098146ea5f07[m
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 21:01:31 2025 -0400
+
+    Delete Kevba's Anomaly science defs
+    
+    They don't work correctly, the game is jumping between them
+
+[33mcommit 412eff1cf1987078e98c03d5f117f00194fd962e[m
+Merge: 74ab423 60b5a70
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 20:59:29 2025 -0400
+
+    Merge branch 'Constructalor:main' into main
+
+[33mcommit 60b5a70f29aa6e8292270bf9b7171dfae14229bc[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:55:14 2025 -0400
+
+    Comment out Ovin_Science.cfg
+    
+    Temporary for the integration of science defs
+
+[33mcommit b14a05907fe12b227353d98a0f406b2be273d4b4[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:53:29 2025 -0400
+
+    Comment out Gurdamma_Science.cfg
+    
+    Temporary for the integration of science defs
+
+[33mcommit a020fd567d291bfc0a233aca85f40cf4e71e454b[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:44:49 2025 -0400
+
+    Comment out Charr_Science.cfg
+    
+    Temporarily while integrating defs
+
+[33mcommit 68d9eb6e18598f27f7caee1a98cf4aeaa19af4f9[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:41:31 2025 -0400
+
+    Comment out Donk_Science.cfg
+    
+    Temporary while integrating all science defs
+
+[33mcommit bfb5c67f1741bd8eac447f152a761df9af3ee4ac[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:38:58 2025 -0400
+
+    Update ScienceDefs.cfg
+
+[33mcommit df0569f09f0d2f67700033ff50fd65c4665e08bd[m
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 20:38:29 2025 -0400
+
+    Fix Firefly configs
+    
+    Add version numbers to be compatible with Firefly 1.0.5+ and change the name of the Donk config from "Duna"
+
+[33mcommit 4d2e9231c9d4317cc6ddd36fa9ab48be17ed3b83[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Fri Aug 22 20:21:51 2025 -0400
+
+    Crew Report + Flying/Space science defs V1
+
+[33mcommit 74ab4231ce8625f7278751ed64feae5ffb7edf96[m
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 19:29:39 2025 -0400
+
+    Add science defs for Kevba's Anomaly
+
+[33mcommit 68c135b75752c5feb1ccf17cdf75167b99787e42[m
+Author: levitato5594 <ranganrs1@protonmail.com>
+Date:   Fri Aug 22 19:05:27 2025 -0400
+
+    Add Glumo science configs
+
+[33mcommit 91b083aeaa067323c15435014975b9d83353a00d[m
+Author: YagatePRCL <haydenwilliamson82@gmail.com>
+Date:   Thu Aug 21 14:58:51 2025 -0700
+
+    Science Defs (Phase 1 - Edit)
+    
+    Edited Donk and Gurdamma to be less repetitive on definitions. Minor fix. Only EVA and SurfaceSamples/CrewReport. Does not include science parts which need to be added.
+
+[33mcommit 2bea9cb3b8ebc27fe4780b66d5cae8f460e21453[m
+Author: YagatePRCL <haydenwilliamson82@gmail.com>
+Date:   Thu Aug 21 12:36:39 2025 -0700
+
+    Science Defs (Phase 1)
+    
+    Rolling out DebDeb science defs. Added Charr, Ovin, Gurdamma, Donk. Remved ScienceDefs.cfg, pasted code to charr_science.cfg in configs/ScienceDefs
+
+[33mcommit 0f1cca8c19d65d0fdec579cba08b27c765714503[m
+Author: Sushut <95113669+Sushutt@users.noreply.github.com>
+Date:   Tue Aug 19 01:18:27 2025 -0700
+
+    Delete ScaledDecoratorProjectFiles/Assets/Editor directory
+    
+    This part wasn't meant to be included in the project files and belongs to https://github.com/Kopernicus/flare-export
+
+[33mcommit caae8d37fb9c08d3846817d9b5b0be1c4753b82b[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 17 22:03:08 2025 -0400
+
+    Axia
+    
+    Added Axia prototype with Scatterer + Parallax Continued support
+
+[33mcommit 0feabde3f9c7908c41b87cabea9713ea96f58949[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sat Aug 16 00:26:33 2025 -0400
+
+    Axia Height
+    
+    To a good home
+
+[33mcommit c4fdbccff8d2330a6567ef16f5b6525b9e28a9b7[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Fri Aug 15 20:03:56 2025 -0400
+
+    De-shining
+    
+    De-shined several bodies' ScaledSpace textures; new Debdeb noise texture
+
+[33mcommit 5f4326ec2ef48b733e85fec5e918f4213d6b1f51[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Wed Aug 13 23:38:13 2025 -0400
+
+    Update README.md
+
+[33mcommit e530bae30c37cb73d3e95307bbef30a6dbd0764c[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Wed Aug 13 23:36:24 2025 -0400
+
+    Update README.md
+
+[33mcommit fb1adb249c08bf8999b4627d5dd7889d3c1091bc[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Wed Aug 13 23:32:50 2025 -0400
+
+    Update README.md
+
+[33mcommit 68c3580fafa2a4a76b38a039eb5b8862ef8c403f[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Wed Aug 13 23:31:34 2025 -0400
+
+    Update README.md
+
+[33mcommit deb3a84487108850322378e74dadb4e8d988d042[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Wed Aug 13 22:14:48 2025 -0400
+
+    Update README.md
+
+[33mcommit fd7ceb1257332cbf9d09cb71f8e89c0c5abc038b[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 23:05:11 2025 -0400
+
+    Update README.md
+
+[33mcommit 94d505d81309d19d397d6927a6e0507deb200d38[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 23:04:30 2025 -0400
+
+    Update README.md
+
+[33mcommit cf51d909ac72516fb655277ad582ac48a564360e[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:58:18 2025 -0400
+
+    Update README.md
+
+[33mcommit e884a8e7751a2ef3662d416bce20c5d5ac6b0001[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:58:00 2025 -0400
+
+    Update README.md
+
+[33mcommit f6ca73df211b6d9366de926419460d9a5f814afe[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:57:15 2025 -0400
+
+    Update README.md
+
+[33mcommit 38aa1aebbf13bac1972a99d6d7eaa2ab86cfbeff[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:56:30 2025 -0400
+
+    Update README.md
+
+[33mcommit b44848b7be221ac50a9d001f32dd9fd56d549739[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:48:01 2025 -0400
+
+    Update README.md
+
+[33mcommit ec4084961287b4aa99c72d554aa595ea17aedc33[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:36:12 2025 -0400
+
+    Update README.md
+
+[33mcommit 44af8be3ca103c1fe8f46ff696cd94ee4ce91ff9[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 22:19:17 2025 -0400
+
+    Update README.md
+
+[33mcommit eec814eeb3d08596f7f16cec068ff19be545a1be[m
+Author: Wyatt Petula <86807603+WyattPetula@users.noreply.github.com>
+Date:   Tue Aug 12 21:34:31 2025 -0400
+
+    Update README.md
+
+[33mcommit 5d9e6388b2c4a1d4d1fd016f4ed278807fa5f89c[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 10 01:38:46 2025 -0400
+
+    PlanetShine V1
+
+[33mcommit 89294a1e04a9b6a50ecbc59d6a2da2e4eea4becc[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 3 19:14:54 2025 -0400
+
+    Scatterer Unloads
+    
+    -Increased distance of Scatterer load/unload on gas/ice giants
+
+[33mcommit 5b4f9db5a8c279c2b67524c57bdeb872a9dced79[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 3 19:04:52 2025 -0400
+
+    Texture Updates
+    
+    - Added tracking station icons for newly-added bodies
+    - Fixed shiny ScaledSpace maps on some bodies
+    - Fixed weird gray specks in Lapat's oceans near shore
+
+[33mcommit b683b2da876d0815a8d08312b06fdb8e7e688ab0[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 3 17:53:48 2025 -0400
+
+    Dorau Improvements
+    
+    - Gave Dorau proper color and water maps
+    - Added (but did not implement) better clouds
+
+[33mcommit 56c04bed63a5acdfe7d05eb838e02509719afefd[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sun Aug 3 13:19:56 2025 -0400
+
+    Tracking Space Icons
+    
+    - Added tracking space icons for all celestial bodies
+
+[33mcommit 74b0a1e08228b9c6a46a9b894404c10d8154a707[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Sat Aug 2 14:40:25 2025 +0100
+
+    Before my hols
+    
+    Donk atmosphere and lava overhaul with volumetrics
+
+[33mcommit 8fa18f6dd44e29e946bacf1dbc2e5fa620b62b5a[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sat Aug 2 11:46:51 2025 +0100
+
+    Update README.md
+
+[33mcommit 2b83f7dae59c14479d435ffda27a8597da05d942[m
+Merge: 6902611 6323cac
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sat Aug 2 01:04:36 2025 +0100
+
+    Merge pull request #1 from Sushutt/main
+    
+    Add ScaledDecorator Disk
+
+[33mcommit 6323cac6b38bb02439fafeb0090323c99d3469b5[m
+Author: debian <andyduha1981@gmail.com>
+Date:   Fri Aug 1 16:54:26 2025 -0700
+
+    Add ScaledDecorator Disk
+
+[33mcommit 69026110601470ff170dae8e71372ee4b14455ba[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Sat Aug 2 00:25:33 2025 +0100
+
+    Biomes & more
+    
+    - Added biome maps to Glumo's moons
+    - Adjusted existing biome maps that were flipped the wrong way
+    - Fixed Debdeb's sunflare filepath
+    - Updated parallax terrain for some bodies
+    - Slowed Charr's rotation
+    - Enhanced Donk's textures
+
+[33mcommit e69bc5424b170bdd68c7d601d8899b45995c6dfc[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Fri Aug 1 00:07:21 2025 +0100
+
+    Glumo and more
+    
+    - Glumo and its moons with full visual mod support (Credit to Wpetula and Sushut for making the textures for Glumo and Merbel respectively)
+    - Settings for wormholes and rescale
+    - Support for many other planet packs
+    - Adjustments to existing planets
+    - Rough science readouts for Charr
+    - Early progress for homeswitch (Kopernicus always fails to load it so this must be fixed)
+    - Science values adjusted
+    - Sunflare changed
+    - Support for TiltEm
+    - Support for EL
+    - Moved some files around
+    - Asteroid configs
+
+[33mcommit dd282c667a98ad9d101ff7af133cc8dfcaeb759a[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Tue Jul 29 16:44:44 2025 +0100
+
+    Update README.md
+
+[33mcommit 2d9f974c058806c165d9b754d2215c247a862fa4[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sun Jul 27 19:00:55 2025 +0100
+
+    Update README.md
+
+[33mcommit 6c189cfb992b5e62dd7b256fe2aabea05c6c06a6[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Sun Jul 27 19:00:44 2025 +0100
+
+    Update README.md
+
+[33mcommit 542c0eba7c9b023b6b3d0962e69ce30ad206ef2f[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Wed Jul 23 19:27:15 2025 +0100
+
+    V0.5 changes
+    
+    Added Dorau and its moon Bis
+    Fixed Rosh's atmosphere being weird
+
+[33mcommit 54a2f4f91159a39b625c52a2c79968c5c1057874[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Tue Jul 22 16:21:58 2025 +0100
+
+    Update README.md
+
+[33mcommit 84f1f069cd512addc1df820b3894354cc8e4ad04[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Tue Jul 22 16:19:44 2025 +0100
+
+    Update README.md
+
+[33mcommit bc146df04c6028d8f978bb0855d2f3d443830daf[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Tue Jul 22 16:19:20 2025 +0100
+
+    Update README.md
+
+[33mcommit 33a8fa7e7528e69d9512abe70e047d91a95704d4[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Tue Jul 22 16:18:39 2025 +0100
+
+    Update README.md
+
+[33mcommit 6abd2b09924bfe3d10766c8d996d0cd6e77fb5da[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Tue Jul 22 16:12:35 2025 +0100
+
+    Quick fix before update
+    
+    Added descriptions to Axod and its moons
+
+[33mcommit c3f5b1e1a547781986435f2fc73e0ed10acd82e3[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Tue Jul 22 15:33:10 2025 +0100
+
+    V0.4 changes
+    
+    Added Umod with full parallax support
+    Added parallax support for Mesma
+    Added biomes for all new moons of Axod
+    Updated Axod and Rosh shadow cast list
+    Switched Gurdamma to support parallax scaled emission
+    Added Mount Bogue to Gurdamma
+    Added Mount Nedzer to Rosh
+
+[33mcommit 2b379b03f33db736bedc9c1e19aa14e478b9a7ea[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Wed Jul 16 18:28:16 2025 +0100
+
+    Mesma Mock-up
+    
+    Added a rough mock-up of Mesma and altered the orbit colours of Axod's other moons.
+
+[33mcommit a4965067604b2812012b714433c7bbeceb56711b[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Mon Jul 14 17:18:23 2025 +0100
+
+    Axod Updates
+    
+    Adjusted atmosphere and added very rough Umod.
+
+[33mcommit 9e3f751bff3fa3a2baa4bcc982f1af3d7a805b79[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Wed Jul 9 21:42:22 2025 +0100
+
+    Small fix
+    
+    Corrected a typo in the volumetrics config
+
+[33mcommit d8534eb4bbcefe0d08d84202e562b4f59a07c815[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Wed Jul 9 21:40:59 2025 +0100
+
+    More Axod Enhancements
+    
+    Added more volumetric storms; added cloud layers and lightning; altered its scatterer atmosphere to accomodate lower cloud layers; lowered kill sphere to accomodate lower cloud layers.
+
+[33mcommit a91aabd38431c24d5fc9976a59801f286352c393[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Sat Jul 5 13:24:44 2025 -0400
+
+    Better Gurdamma
+    
+    Overhauled Gurdamma's color and water maps; added 8K Noise Map for texturing purposes
+
+[33mcommit 4fac50bb96e381b9e3886101548883c2ae772950[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Fri Jul 4 21:25:14 2025 -0400
+
+    Gurdamma Enhancements (FIXED)
+    
+    EVE data is no longer reset.
+
+[33mcommit f21d2e7b92477b2e49a251998e85e1e867e89e42[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Fri Jul 4 21:22:53 2025 -0400
+
+    Revert "Gurdamma Enhancement"
+    
+    This reverts commit 696ccce4539cce33adde04bd6ab1f596a25c5c54.
+
+[33mcommit 696ccce4539cce33adde04bd6ab1f596a25c5c54[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Fri Jul 4 21:19:00 2025 -0400
+
+    Gurdamma Enhancement
+    
+    Improved Ovin's rings; added tons of new craters and detailing to Gurdamma without touching its volcanoes; new Gurdamma normal (feel free to improve it)
+
+[33mcommit c14850386295d608f38bc7dcd7a11445a175c1fe[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Fri Jul 4 14:15:08 2025 +0100
+
+    Axod Scatterer & Volumetrics
+    
+    Changes to Axod's scatterer configs, as well as adding EVE volumetric support (This only applies to the top cloud layer. Underworld layers will come later).
+
+[33mcommit f44fe9bba0cbfdd5a7d8a7edffb646e1c1c59939[m
+Author: Wyatt Petula <wyattpeterpetula@gmail.com>
+Date:   Thu Jul 3 19:10:55 2025 -0400
+
+    Ovin Improvements
+    
+    Fixed Ovin having shiny texture without Parallax; fixed ring seam; added better Scatterer atmo; in-progress fixes and experimental enhancements for Gurdamma
+
+[33mcommit 5905b83b1a5564aad485eeec70628d1de31d4aae[m
+Author: Constructalor <eo_sullivan@outlook.com>
+Date:   Thu Jul 3 22:08:04 2025 +0100
+
+    Files Upload
+    
+    Please god work I beg you
+
+[33mcommit d1f4d977c66d784393a2e5e9fffc4fbd60f2a969[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Thu Jul 3 21:54:34 2025 +0100
+
+    Delete DebdebSystem/Configs directory
+
+[33mcommit 80d9dde8406fcf951bf66c34fb8907dc6790662d[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Thu Jul 3 21:42:44 2025 +0100
+
+    Add files via upload
+
+[33mcommit c1e5b1e63a7705afe71b8771637969c5aedb8b1c[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Mon Jun 30 16:16:10 2025 +0100
+
+    Update README.md
+
+[33mcommit ad2bdd6bec43f39a5b50ecf414530cef68b3fa0b[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Wed Jun 25 20:05:53 2025 +0100
+
+    Update README.md
+
+[33mcommit 789aa0f84952a5b6764605d32100506759dd858e[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Wed Jun 25 16:22:25 2025 +0100
+
+    Update README.md
+
+[33mcommit ce28530507fa9350c6e0170c149f8ece625041ad[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Wed Jun 25 13:06:27 2025 +0100
+
+    Update README.md
+
+[33mcommit 99cd783382ecff585d4c57c567d641113f97d74d[m
+Author: Constructalor <68062219+Constructalor@users.noreply.github.com>
+Date:   Wed Jun 25 12:30:47 2025 +0100
+
+    Initial commit
