@@ -13,10 +13,25 @@ Promised Worlds is currently in early access. Planets, moons, and other features
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
 # Installation
-- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases)
-- Extract the zip file and put all folders in GameData
+
+## CKAN
+- Select "Promised Worlds - Debdeb" for the Debdeb system. CKAN will install the required dependencies.
+
+## SpaceDock (coming soon!)
+
+## Manual (GitHub)
+- Download the latest version from [releases](https://github.com/Constructalor/DebdebSystem/releases). You will need both the Core zip file and the Debdeb zip file.
+- Extract the Core zip file, and put the contents of GameData in your GameData directory.
+- Extract the Debdeb zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
 - Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
-- Extract these zip files and put all folders in GameData
+- Extract these zip files and put all folders in GameData.
+  
+## Options
+In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
+- Wormholes (Require Singularity for shaders)
+- DistanceFactor (How far from Kerbol the systems will be)
+- Rescale (Resize the systems, requires Sigma Dimensions)
+- FileAccurate (Remove anything not originally in the KSP 2 files)
 
 # The Debdeb System
 
